@@ -1,4 +1,5 @@
 🌳 Karnataka Forests & Fauna Dashboard
+
 📖 Overview
 This project visualizes forest cover, land use, and biodiversity in Karnataka using Tableau.
 It highlights district‑wise forest distribution, changes over time, and key facts about Karnataka’s rich ecosystems and wildlife.
@@ -27,11 +28,9 @@ Excel/CSV for data preparation
 Shapefiles/GeoJSON for district boundaries
 
 🚀 How to Use
-Clone the repository.
+Open the Tableau workbook (Tableau packaged file) or view dashboard as webpage under deployments
 
-Open the Tableau workbook (.twb or .twbx).
-
-Explore the dashboard with filters for district, forest type, and year.
+Explore the dashboard.
 
 Use interactive maps and charts to analyze forest distribution and biodiversity.
 
