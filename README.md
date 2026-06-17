@@ -6,18 +6,13 @@ It highlights district‑wise forest distribution, changes over time, and key fa
 
 ✨ Features
 District‑wise Forest Cover: Choropleth map showing forest percentage across Karnataka.
-
 Forest Type Distribution: Pie chart of Very Dense, Moderately Dense, Open Forest, and Scrub.
-
 Land Use Analysis: Comparative view of reporting area, net sown area, and forest share.
-
 Biodiversity Highlights: Callouts on Karnataka’s fauna (tigers, elephants, leopards, gaurs, endemic birds).
-
 Did You Know? Section: Quick facts about Karnataka’s forests and Western Ghats biodiversity hotspot.
 
 📊 Data Sources
 India State of Forest Report (ISFR) 2023
-
 Karnataka district‑wise forest statistics (public datasets)
 
 🛠️ Tools Used
