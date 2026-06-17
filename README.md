@@ -27,7 +27,9 @@ Excel/CSV for data preparation
 Shapefiles/GeoJSON for district boundaries
 
 🚀 How to Use
-Open the Tableau workbook (Tableau packaged file) or open Dashboard as a web page in deployment
+Clone the repository.
+
+Open the Tableau workbook (.twb or .twbx).
 
 Explore the dashboard with filters for district, forest type, and year.
 
